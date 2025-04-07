@@ -17,6 +17,8 @@ public class Main {
         Calculadora calculadora = new Calculadora();
         System.out.printf("\nsoma: %d", calculadora.somar(num1, num2));
 
+
+
         System.out.printf("\nsoma: %d", calculadora.expoente(4, 3));
 
 
